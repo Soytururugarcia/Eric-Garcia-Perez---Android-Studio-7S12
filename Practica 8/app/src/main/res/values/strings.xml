@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P8-Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnA1Frg1">Fragment1</string>
+    <string name="btnA1Frg2">Fragment2</string>
+</resources>

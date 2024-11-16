@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica4-PersonalToast</string>
+    <string name="lblA1Info">Personaliza Toast</string>
+    <string name="btnA1Lanzar">Lanzar Toast</string>
+    <string name="lblA2Nombre">Ingenieria en Sistemas
+        Computacionales</string>
+    <string name="lblA2Apellido">7S12</string>
+</resources>

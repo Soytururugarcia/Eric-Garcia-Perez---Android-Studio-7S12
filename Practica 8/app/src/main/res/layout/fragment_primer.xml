@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PrimerFragment" >
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PRACTICA 8: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tempus egestas augue, eget congue diam lacinia ut. Nam commodo augue in sapien porta, vitae suscipit sem tempus. Nunc ullamcorper dui orci, id viverra turpis ornare in. Morbi ut pulvinar neque, id efficitur magna. Morbi purus risus, auctor at elementum at, feugiat vel risus. Vestibulum scelerisque suscipit nisi, ut faucibus lorem ornare tempus. Suspendisse iaculis augue sem, ac convallis est rhoncus quis. Aliquam erat volutpat. Quisque vehicula, massa fringilla pretium volutpat, turpis neque eleifend ligula, vitae ornare orci felis at augue. Proin a euismod metus. Pellentesque euismod eu orci eu dictum. Sed ultricies tincidunt risus, non maximus sem molestie pulvinar.
+
+Phasellus sodales faucibus arcu, id finibus dolor finibus sed. Aliquam placerat ultrices arcu sit amet auctor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut quis tincidunt nulla. In hac habitasse platea dictumst. Curabitur ultrices lacus non hendrerit semper. Sed consectetur orci in tellus tincidunt maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
+
+Cras id nibh maximus orci lobortis bibendum. Fusce placerat accumsan ipsum eu malesuada. In hac habitasse platea dictumst. Praesent ornare vehicula felis, et sagittis eros posuere sit amet. Proin rutrum dolor a nulla vehicula, ut pulvinar massa rhoncus. Sed et nisl consequat, facilisis sem vel, cursus urna. Nullam faucibus libero nec iaculis porta. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+
+Vestibulum ultrices orci ac dolor sagittis, sed varius lacus posuere. Donec finibus sapien ut velit consequat, at semper nisi suscipit. Suspendisse eget dolor vitae enim cursus bibendum at eu turpis. Praesent malesuada metus lectus, nec porttitor nunc viverra a. In laoreet mi non magna aliquam, quis euismod augue egestas. Praesent tempus lorem quis fermentum posuere. Nam ac mauris ut enim semper ullamcorper. Phasellus et rhoncus tellus. Nullam semper ornare pharetra. Donec at lobortis erat, ut tempor massa. Praesent rutrum mauris id justo rhoncus consequat.
+
+Nam sed nisl vel nisl efficitur condimentum. Suspendisse mollis auctor augue, et congue nunc. Mauris bibendum mattis nisl, dapibus pellentesque eros rutrum vel. Integer maximus nulla et fringilla varius. Nunc et condimentum metus. Praesent orci metus, laoreet non lacinia sed, congue ac risus. Vivamus id lorem iaculis, dapibus ligula condimentum, pellentesque neque. Nunc sem tortor, tincidunt ut diam vitae, tincidunt gravida metus. Vestibulum non euismod quam, bibendum mattis nisi. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintVertical_bias="0.0"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
+
